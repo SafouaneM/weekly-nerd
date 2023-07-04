@@ -9,7 +9,9 @@ https://github.com/SafouaneM/weekly-nerd/assets/31611670/9c4a2a2f-4cd2-445b-aeea
 <img src="https://github.com/SafouaneM/weekly-nerd/assets/31611670/8fa1cd19-0da9-4dce-ad62-ca931229ac07" width="500" />
 
 ## Transition and Snapchat Room
-So as I said my hopes got quite up after this room, I expected even more "immersive" experiences from the museum. Afterwards we met UFO which told us about some things that I did not really understand but it was meant as transistion to the next room. The only thing that interested me was that the screen and the animations were powered by Samsung. Afterwards we moved towards the snapchat AR room, I have no clue what this has to do with the minor. __But I shot some nice pictures here with Jeffrey whilst we wore our best Lil Nas x / K'Sante cosplay dresses. Here's some pictures of him and us so you can compare__.
+So as I said my hopes got quite up after this room, I expected even more "immersive" experiences from the museum. Afterwards we met UFO which told us about some things that I did not really understand but it was meant as transistion to the next room. The only thing that interested me was that the screen and the animations were powered by Samsung. Afterwards we moved towards the snapchat AR room, I have no clue what this has to do with the minor. 
+
+### __But I shot some nice pictures here with Jeffrey whilst we wore our best Lil Nas x / K'Sante cosplay dresses. Here's some pictures of him and us so you can compare.__
 
 <img src="https://github.com/SafouaneM/weekly-nerd/assets/31611670/e420f994-acea-4608-b6ca-20dd12ffd3d7" width="500"/>
 <img src="https://github.com/SafouaneM/weekly-nerd/assets/31611670/54898cf9-b95b-45b3-9a83-5a5088184e0d" width="500" height="700"/>
