@@ -107,5 +107,5 @@ Used to google docs -> markdown https://euangoddard.github.io/clipboard2markdown
 ------------------------------
 Reference: 
 ----------------------------------------
-Aaron Gustafson Weekly nerd
-Podcast: https://podrocket.logrocket.com/pwas
+Aaron Gustafson Weekly nerd.
+Podcast: https://podrocket.logrocket.com/pwas.
