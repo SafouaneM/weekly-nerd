@@ -1,40 +1,14 @@
 # Artikel 1
 # Susan from Campspace
-Our very first weekly nerd was from Susan, who is a back-end developer in the company that runs Campspace. What started as a really interesting weekly nerd as she explained to us the importance of trying to understand how a back-end developer has to work with a front-end developer and likewise.  
+Our very first weekly nerd was from Susan, who is a back-end developer in the company that runs Campspace. What started as a really interesting weekly nerd as she explained to us the importance of trying to understand how a back-end developer has to work with a front-end developer and likewise. However, I noticed that everything seemed cramped, and she was using Symfony. She also showcased some examples of filtering data using Elasticsearch, citing a server issue as the reason for using it instead of the usually reliable MySQL. Personally, I've worked with large amounts of data, and I believe it's more likely a server flaw than a problem with MySQL's performance.
+I also observed that the class wasn't really paying attention, so I decided to ask her a question about why the company chose Symfony over a more robust framework called Laravel. Surprisingly, she responded by stating that Laravel is typically used for prototyping and "childish" projects, and it isn't widely used in production. I was taken aback by her response, but I didn't want to bore my classmates, so I chose not to engage in a discussion and simply accepted her statement. However, I would like to add that Laravel is the world's number one PHP framework for a reason, often referred to as "The PHP Framework for Web Artisans." While I acknowledge that Symfony is a powerful tool, it seems unfair to dismiss Laravel as suitable only for trivial projects. Both Symfony and Laravel can be used to build applications ranging from small to enterprise-level. So I thought how about a deeper dive into Symfony?
 
-## An example in the real world based on what susan told us.
-Imagine Susan, a back-end developer, and Mike, a front-end developer, working together on a project for their camping platform called Campspace. Susan's job is to handle the behind-the-scenes stuff like managing the databases and making sure everything runs smoothly. On the other hand, Mike is responsible for designing and creating the user interface that people will interact with.
+## Symfony the basics
 
 
-Even though Susan and Mike had different roles, Susan emphasised the significance of having a basic understanding of each other's work. It's like getting a glimpse behind the scenes to comprehend what's happening on the other side. This understanding helps foster effective communication and collaboration.
 
-For instance, when they were developing a new booking feature for Campspace, Susan needed to provide Mike with the necessary information and instructions (known as APIs) to create the booking interface on the website. Similarly, Mike needed to grasp the technical workings to ensure a seamless connection between the user interface and the underlying systems.
-Having this shared understanding enabled Susan and Mike to communicate effectively. They could discuss ideas, come up with solutions together, and prevent potential issues. It's like speaking the same language. Without this understanding, they might have faced miscommunication or struggled to meet the project requirements.
 
-Furthermore, this shared knowledge helped Susan and Mike appreciate each other's work. They understood the challenges each of them faced and could respect their contributions. It's like having a teammate who empathises with your experiences. This understanding fostered a better working relationship and a more enjoyable work environment.
-Moreover, this basic understanding enabled them to troubleshoot and resolve issues efficiently. They could quickly identify problem areas and find solutions, akin to being detectives solving a mystery.
-In summary, Susan and Mike didn't need to be experts in each other's roles, but having a basic understanding was crucial for effective collaboration. It facilitated smooth teamwork, minimised misunderstandings, and allowed them to value each other's contributions. It formed a solid foundation for their joint efforts to create amazing camping experiences through Campspace.
-And in the end, it leads to creating awesome camping experiences for people using Campspace.
 
-## “Laravel is for childish projects” - Symfony User 
-After the lecture about the differences between front-end and back-end developers in a team, we were shown examples of how to loop in PHP. Instead of simply demonstrating it on a basic screen like W3Schools, the presenter delved into her actual project, attempting to show how everything worked.
 
-Small example of a for loop in php 
-```php
-for($i=0; $i < 9; $i++)
-```
 
-Small example of a for loop in laravel.blade
-
-```php
-    @for ($i = 0; $i < 5; $i++)
-
-        <p>The current value is {{ $i }}.</p>
-
-    @endfor
-```
-
-However, I noticed that everything seemed cramped, and she was using Symfony. She also showcased some examples of filtering data using Elasticsearch, citing a server issue as the reason for using it instead of the usually reliable MySQL. Personally, I've worked with large amounts of data, and I believe it's more likely a server flaw than a problem with MySQL's performance.
-I also observed that the class wasn't really paying attention, so I decided to ask her a question about why the company chose Symfony over a more robust framework called Laravel. Surprisingly, she responded by stating that Laravel is typically used for prototyping and "childish" projects, and it isn't widely used in production. I was taken aback by her response, but I didn't want to bore my classmates, so I chose not to engage in a discussion and simply accepted her statement. However, I would like to add that Laravel is the world's number one PHP framework for a reason, often referred to as "The PHP Framework for Web Artisans." While I acknowledge that Symfony is a powerful tool, it seems unfair to dismiss Laravel as suitable only for trivial projects. Both Symfony and Laravel can be used to build applications ranging from small to enterprise-level.
-Overall, this was one of the weekly nerds that genuinely interested me because it covered a subject I actually had prior knowledge of.
 
