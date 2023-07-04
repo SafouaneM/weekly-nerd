@@ -1,5 +1,5 @@
 # Artikel NXT museum
-Around the last quarter of our minor we went to visit the NXT museum in Amsterdam Noord. This museum was promoted as a "Large-scale & immersive installations fusing technology & creativity with psychedelic light & sound." So when we went in I expected quite the immersive experience. Following the assignment I'll write a short overview of my experience of the museum and finish with the room I "liked" the most and go into more detail for that room.
+Towards the last quarter of our minor, we visited the NXT museum in Amsterdam Noord. This museum was promoted as a 'Large-scale & immersive installations fusing technology & creativity with psychedelic light & sound.' So, when we entered, I expected quite an immersive experience. Following the assignment, I will write a short overview of my museum experience and then delve into the room I 'liked' the most, providing more details about it.
 
 ## The first room
 The first room was actually quite immersive, my hopes got quite up after this room as we kind of could play with the lightbulbs and I could see myself move in the light bulbs.  I'll show you a picture and video of how that worked. 
