@@ -1,20 +1,6 @@
 # Artikel 2
 
-Product Biografie
-
-![](https://lh4.googleusercontent.com/NnjGwJ0Nw4d7AG1w8XOLWRBtO_eQPE7onxT3TxlLu3ZudyEo5YvEvyYjU9QdfqSR3tcAuotxd1GwLTblRvKzMJuA3VvLqaKFKH02xQqSymUjHoj17rMO5kfjn7Hqzs4DT_7rLz_U4CuhG6ZW8Wqqi3w)
-
-Naam: Safouane Messaoudi
-
-School: Windesheim Almere
-
-Opleiding: HBO-ICT
-
-Minor: Web design & development aan de Hogeschool van Amsterdam
-
-Studentnummer: s1158048
-
-Coach: Sanne 't HoofdIntroduction to progressive enchantment by Aaron Gustafson  
+Introduction to progressive enchantment by Aaron Gustafson  
 ============================================================
 
 In today's digital landscape, web design and development have become increasingly challenging. From the early days when the web was relatively small, with screen sizes like 640p x 480px, to the present, where a multitude of screen sizes exist, adapting to these changes is essential. This article explores the significance of responsive design and the need to consider various user experiences in a rapidly evolving web environment.
