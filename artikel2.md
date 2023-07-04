@@ -104,3 +104,4 @@ In an ever-evolving web landscape, responsive design is vital to cater to the di
 
 
 Used to google docs -> markdown https://euangoddard.github.io/clipboard2markdown/
+Reference: Linkedinn Aaron Gustafson 
