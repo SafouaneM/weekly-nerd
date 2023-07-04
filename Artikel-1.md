@@ -1,4 +1,4 @@
-# Artikel 3
+# Artikel 1
 ![afbeelding](https://github.com/SafouaneM/weekly-nerd/assets/31611670/97405d5d-2163-44d7-971c-cf90aa5a17dd)
 
 ## Introduction to Svelte
