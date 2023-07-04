@@ -17,7 +17,7 @@ Overall, Symfony simplifies the development process by offering a standardized s
 ### Step 1 Installation
 - PHP 8.1+
 - composer install
-```code
+```text
 symfony new my_project_directory --version="6.3.*" --webapp
 symfony new my_project_directory --version="6.3.*"
 ```
