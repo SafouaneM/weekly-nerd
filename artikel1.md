@@ -4,9 +4,13 @@ Our very first weekly nerd was from Susan, who is a back-end developer in the co
 
 ## An example in the real world based on what susan told us.
 Imagine Susan, a back-end developer, and Mike, a front-end developer, working together on a project for their camping platform called Campspace. Susan's job is to handle the behind-the-scenes stuff like managing the databases and making sure everything runs smoothly. On the other hand, Mike is responsible for designing and creating the user interface that people will interact with.
+
+
 Even though Susan and Mike had different roles, Susan emphasised the significance of having a basic understanding of each other's work. It's like getting a glimpse behind the scenes to comprehend what's happening on the other side. This understanding helps foster effective communication and collaboration.
+
 For instance, when they were developing a new booking feature for Campspace, Susan needed to provide Mike with the necessary information and instructions (known as APIs) to create the booking interface on the website. Similarly, Mike needed to grasp the technical workings to ensure a seamless connection between the user interface and the underlying systems.
 Having this shared understanding enabled Susan and Mike to communicate effectively. They could discuss ideas, come up with solutions together, and prevent potential issues. It's like speaking the same language. Without this understanding, they might have faced miscommunication or struggled to meet the project requirements.
+
 Furthermore, this shared knowledge helped Susan and Mike appreciate each other's work. They understood the challenges each of them faced and could respect their contributions. It's like having a teammate who empathises with your experiences. This understanding fostered a better working relationship and a more enjoyable work environment.
 Moreover, this basic understanding enabled them to troubleshoot and resolve issues efficiently. They could quickly identify problem areas and find solutions, akin to being detectives solving a mystery.
 In summary, Susan and Mike didn't need to be experts in each other's roles, but having a basic understanding was crucial for effective collaboration. It facilitated smooth teamwork, minimised misunderstandings, and allowed them to value each other's contributions. It formed a solid foundation for their joint efforts to create amazing camping experiences through Campspace.
