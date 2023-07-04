@@ -17,7 +17,24 @@ In summary, Susan and Mike didn't need to be experts in each other's roles, but 
 And in the end, it leads to creating awesome camping experiences for people using Campspace.
 
 ## “Laravel is for childish projects” - Symfony User 
-After the lecture about the differences between front-end and back-end developers in a team, we were shown examples of how to loop in PHP. Instead of simply demonstrating it on a basic screen like W3Schools, the presenter delved into her actual project, attempting to show how everything worked. However, I noticed that everything seemed cramped, and she was using Symfony. She also showcased some examples of filtering data using Elasticsearch, citing a server issue as the reason for using it instead of the usually reliable MySQL. Personally, I've worked with large amounts of data, and I believe it's more likely a server flaw than a problem with MySQL's performance.
+After the lecture about the differences between front-end and back-end developers in a team, we were shown examples of how to loop in PHP. Instead of simply demonstrating it on a basic screen like W3Schools, the presenter delved into her actual project, attempting to show how everything worked.
+
+Small example of a for loop in php 
+```php
+for($i=0; $i < 9; $i++)
+```
+
+Small example of a for loop in laravel.blade
+
+```php
+    @for ($i = 0; $i < 5; $i++)
+
+        <p>The current value is {{ $i }}.</p>
+
+    @endfor
+```
+
+However, I noticed that everything seemed cramped, and she was using Symfony. She also showcased some examples of filtering data using Elasticsearch, citing a server issue as the reason for using it instead of the usually reliable MySQL. Personally, I've worked with large amounts of data, and I believe it's more likely a server flaw than a problem with MySQL's performance.
 I also observed that the class wasn't really paying attention, so I decided to ask her a question about why the company chose Symfony over a more robust framework called Laravel. Surprisingly, she responded by stating that Laravel is typically used for prototyping and "childish" projects, and it isn't widely used in production. I was taken aback by her response, but I didn't want to bore my classmates, so I chose not to engage in a discussion and simply accepted her statement. However, I would like to add that Laravel is the world's number one PHP framework for a reason, often referred to as "The PHP Framework for Web Artisans." While I acknowledge that Symfony is a powerful tool, it seems unfair to dismiss Laravel as suitable only for trivial projects. Both Symfony and Laravel can be used to build applications ranging from small to enterprise-level.
 Overall, this was one of the weekly nerds that genuinely interested me because it covered a subject I actually had prior knowledge of.
 
