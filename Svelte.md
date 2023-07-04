@@ -54,30 +54,38 @@ color: white;
   export let text;
 
   function handleClick() {
-    window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+    const iframe = document.createElement('iframe');
+    iframe.width = '560';
+    iframe.height = '315';
+    iframe.src = 'https://streamable.com/jupquu';
+    iframe.frameborder = '0';
+    iframe.allowfullscreen = 'true';
+    document.body.appendChild(iframe);
   }
 </script>
 
 <button on:click={handleClick}>{text}</button>
-<style>
-.button {
-      display: inline-block;
-      padding: 12px 24px;
-      font-size: 18px;
-      color: #fff;
-      background-color: #4CAF50;
-      border: none;
-      border-radius: 4px;
-      transition: background-color 0.3s ease;
-      text-decoration: none;
-      cursor: pointer;
-      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
-    }
 
-    .button:hover {
-      background-color: #45a049;
-    }
+<style>
+  button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  button:hover {
+    background-color: #45a049;
+  }
 </style>
+
 ```
 
 7. Now let's head towards App.Svelte again and insert the following code:
