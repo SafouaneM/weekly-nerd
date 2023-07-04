@@ -28,36 +28,31 @@ Additionally, media queries were introduced to CSS, enabling developers to apply
 
 Overall, while the early approaches to responsive design using HTML tables, framesets, and creative use of <div> elements were effective to some extent, they lacked the flexibility and ease of implementation that modern CSS frameworks and techniques provide. Today, responsive design has evolved significantly, with frameworks like Bootstrap and Foundation offering a wide range of pre-built responsive components and grids that simplify the process of creating responsive layouts.
 
-|
 
-<table>\
- <tr>\
-<td>Content in cell 1</td>\
-<td>Content in cell 2</td>\
- </tr>\
- <tr>\
-<td>Content in cell 3</td>\
-<td>Content in cell 4</td>\
- </tr>\
+```html
+<table>
+ <tr>
+<td>Content in cell 1</td>
+<td>Content in cell 2</td>
+ </tr>
+ <tr>
+<td>Content in cell 3</td>
+<td>Content in cell 4</td>
+ </tr>
 </table>
-
- |
+```
 
 This example showcases a basic HTML table structure with four cells. By adjusting the table's width and applying CSS styles, developers could control the layout and responsiveness of the content within each cell.
-
-|
-
+```html
 <div  class="container">\
   <div  class="column">Content in column 1</div>\
   <div  class="column">Content in column 2</div>\
 </div>
-
- |
+```
 
 In the early days, the <div> element, known as a "division," was often used as a generic container to group and style content. By assigning specific classes or IDs to the <div> elements and defining CSS styles, developers could position them and create responsive layouts.
 
-|
-
+```css
 .container {\
  width: 100%;\
 }
@@ -73,8 +68,7 @@ width: 100%;\
   }
 
 }
-
- |
+```
 
 In this CSS example, the .container class represents the container <div> element, and the .column class represents the column <div> elements. Initially, the columns are floated side by side with a width of 50% each. However, when the screen size is below 768 pixels, the media query adjusts the column width to 100%, making the layout stack vertically on smaller screens.
 
@@ -107,3 +101,6 @@ Conclusion
 ----------
 
 In an ever-evolving web landscape, responsive design is vital to cater to the diverse needs of users across an array of devices. The accessibility of the web has increased significantly, allowing content to be accessed and consumed from anywhere. Designers must embrace progressive enhancement and consider various user experiences to create inclusive and enjoyable browsing experiences. By continuously adapting and improving, we can ensure that our web pages reach and engage users effectively, regardless of their device or location.
+
+
+Used to google docs -> markdown https://euangoddard.github.io/clipboard2markdown/
