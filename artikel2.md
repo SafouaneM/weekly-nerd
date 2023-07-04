@@ -1,6 +1,6 @@
 # Artikel 2
 
-Introduction to progressive enchantment by Aaron Gustafson  
+Introduction to progressive enchantment  
 ============================================================
 
 In today's digital landscape, web design and development have become increasingly challenging. From the early days when the web was relatively small, with screen sizes like 640p x 480px, to the present, where a multitude of screen sizes exist, adapting to these changes is essential. This article explores the significance of responsive design and the need to consider various user experiences in a rapidly evolving web environment.
