@@ -1,4 +1,4 @@
-# Artikel 2
+# Artikel 3
 
 Introduction to progressive enchantment  
 ============================================================
